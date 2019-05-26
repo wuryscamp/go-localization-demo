@@ -1,4 +1,4 @@
-package: github.com/Bhinneka/go-localization-demo
+package: github.com/wuryscamp/go-localization-demo
 import:
 - package: github.com/nicksnyder/go-i18n
   version: v2.0.0-beta.6

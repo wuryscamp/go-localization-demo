@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/Bhinneka/go-localization-demo/config/spik"
+	"github.com/wuryscamp/go-localization-demo/config/spik"
 )
 
 // en_US
