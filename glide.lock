@@ -1,0 +1,17 @@
+hash: a2a6d35590d7938d179d75b00d350484c9c56b673f9bcaf34ed04eaf6f32de7b
+updated: 2019-02-25T13:31:15.385749+07:00
+imports:
+- name: github.com/nicksnyder/go-i18n
+  version: 9c0db6e2b3a591b2dfabb8ef487e53cd080c57bf
+  subpackages:
+  - v2/i18n
+  - v2/internal
+  - v2/internal/plural
+- name: golang.org/x/text
+  version: f21a4dfb5e38f5895301dc265a8def02365cc3d0
+  subpackages:
+  - internal/tag
+  - language
+- name: gopkg.in/yaml.v2
+  version: 51d6538a90f86fe93ac480b35f37b2be17fef232
+testImports: []
